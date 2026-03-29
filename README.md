@@ -46,12 +46,12 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
-<img width="1710" alt="Screenshot 2024-12-20 at 8 59 32 PM" src="https://github.com/user-attachments/assets/bccbff27-15bc-4647-bbfd-bb1bb59f8ada" />
+# Output
+<img width="1675" height="1030" alt="image" src="https://github.com/user-attachments/assets/d097683e-8439-4c72-9193-aa2bc6e36faf" />
 
 
-### Name: Abhishek Kannan M
-### Register Number: 212224040007
+# Name: Abhishek Kannan M
+# Register Number: 212224040007
 
-## RESULT:
-##  Thus a prototype of the given part model is developed using 3D Printer.
+# RESULT:
+ Thus a prototype of the given part model is developed using 3D Printer.
